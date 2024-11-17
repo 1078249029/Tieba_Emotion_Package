@@ -1,2 +1,9 @@
 # Tieba_Emotion_Package
 百度贴吧的表情包文件，经由waifu2x修复
+
+raw_data来源于[Owner avatarTieba_mobile_emotions](https://github.com/microlong666/Tieba_mobile_emotions)，为移动端提取的原始数据
+waifu2x为经过waifu2x修复的原始大小文件
+waifu2x2x为经过waifu2x修复的缩放倍率为2的文件
+waifu2x4x为经过waifu2x修复的缩放倍率为4的文件
+
+画质4x为最优，2x次优，手机端表情包推荐使用2x
